@@ -1,0 +1,10 @@
+var analogies = ["une couleur","un film","une chanson","un jeu vidéo", "un streameur", "un artiste", "un endroit"]
+var valeursAnalogies = ["Rouge", "Projet X", "Lost In Fire de The Weeknd", "The Last Of Us Part II", "Laink", "The Weeknd", "La suisse"]
+var lien = ["accueil", "couleur", "film", "chanson", "jeuVidéo", "streameur","artiste", "endroit"]
+var description = ["parce que le rouge est ma couleur préférée et aussi car la signification du rouge peut varier d'une culture à l'autre et que certaines associations culturelles peuvent être subjectives"
+,"parce que projet x est mon film préféré, cela parle de l'adolence et je me suis vite identifié au personnes ce qui me permet de mieux comprendre le film en lui-même"
+,"parce que Lost In Fire de The Weeknd est mon titre préféré c'est le titre que j'écoute h24 sans avoir marre, j'adore les paroles qui sont évocatrices pour moi mais aussi la mélodie, j'aime tout dans cette chanson"
+,"parce que The Last Of Us Part II est mon jeu vidéo préféré car ce jeu n'est pas simplement un jeu il raconte vraiment un côté très humains dans un monde apocaliptique ou tout le monde fait attention a tout le monde et que on doit faire des choix pour y survivre"
+,"parce que Laink est mon streameur préféré car j'adore sa façon de jouer et il me fait découvrir pas mal de jeu indépendant ce qui permet de soutenir les petites entreprises qui font ses jeux donc je me lasse pas de ses vod qui peuvent durée 9h"
+,"parce que The Weenknd est mon Artiste préfére car j'ai eu la chance d'aller le voir au concert le 30 juillet au Stade de France et que chacune de ses musiques est incroyable il fait aucun faux pas"
+,"parce que la Suisse est un pays super beau que j'ai pu visité pendant un week-end avec ma meilleure amie en décembre 2023, les paysages sont exceptionnels"]
